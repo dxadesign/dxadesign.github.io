@@ -25,4 +25,6 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
   padding: 10px;
   margin: 10px;">Auf WhatsApp teilen</a>
 
+  <a href="whatsapp://send?text=The text to share!" data-action="share/whatsapp/share">Share via Whatsapp</a>
+
 </p>
