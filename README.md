@@ -9,7 +9,13 @@ Disclaimer: Dies ist ein humoristisches Kunstwerk und sollte unter keinen Umstä
 Dein Browser unterstützt das Abspielen des Liedes nicht.
 </audio> 
 <br>
+<br>
 
-<a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.mp3" style="background-color: #3a944a; corner-radius: 5px">Downoad</a>
+<a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.mp3" style="
+  background-color: #3a944a;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;">Downoad</a>
 
 </p>
