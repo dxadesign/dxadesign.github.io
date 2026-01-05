@@ -1,7 +1,7 @@
 Disclaimer: Dies ist ein humoristisches Kunstwerk und sollte unter keinen Umständen ernst genommen werden.
 
 <p style="text-align: center">
-<img src="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.png" style="width:100vw;max-width:200px" />
+<img src="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.png" style="width:100vw;max-width:300px" />
 <br>
  <audio controls>
   <source src="horse.ogg" type="audio/ogg">
