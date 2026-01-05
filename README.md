@@ -10,6 +10,6 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
 </audio> 
 <br>
 
-[Download](https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.mp3)
+<a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.mp3" style="background-color: #3a944a; corner-radius: 5px">Downoad</a>
 
 </p>
