@@ -16,7 +16,7 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
   border-radius: 5px;
   color: white;
   padding: 10px;
-  margin: 10px;">Download MP3</a>
+  margin: 10px;">Song runterladen</a>
 <br>
 <br>
   
