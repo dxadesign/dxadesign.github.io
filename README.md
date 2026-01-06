@@ -20,7 +20,7 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
 <br>
 <br>
   
-<a href="whatsapp://send?text=Schau mal was wir in der Musiktherapie gemacht haben: https://bab.si/rgak" data-action="share/whatsapp/share" style="
+<a href="whatsapp://send?text=Schau mal was wir in der Musiktherapie gemacht haben: http://tiny.cc/rgak" data-action="share/whatsapp/share" style="
   background-color: #3a944a;
   border-radius: 5px;
   color: white;
