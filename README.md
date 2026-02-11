@@ -17,6 +17,8 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
   color: white;
   padding: 10px;
   margin: 10px;">Auf YouTube hören</a>
+<br>
+<br>
 
 <a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/ABisslBesserAlsGestern.mp3" style="
   background-color: #3a944a;
@@ -45,6 +47,8 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
   color: white;
   padding: 10px;
   margin: 10px;">Auf YouTube hören</a>
+<br>
+<br>
 
 <a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.mp3" style="
   background-color: #3a944a;
