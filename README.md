@@ -11,6 +11,13 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
 <br>
 <br>
 
+<a href="https://www.youtube.com/watch?v=VPW2uepF9jY" style="
+  background-color: #3a944a;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;">Auf YouTube hören</a>
+
 <a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/ABisslBesserAlsGestern.mp3" style="
   background-color: #3a944a;
   border-radius: 5px;
@@ -30,6 +37,14 @@ Dein Browser unterstützt das Abspielen des Liedes nicht.
 </audio> 
 <br>
 <br>
+
+
+<a href="https://www.youtube.com/watch?v=8kztESR21t4" style="
+  background-color: #3a944a;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;">Auf YouTube hören</a>
 
 <a href="https://github.com/dxadesign/dxadesign.github.io/raw/refs/heads/main/RehaLife.mp3" style="
   background-color: #3a944a;
